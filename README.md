@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luísa Salvador
-- :sparkles::woman_technologist:  Currently I´m taking a Master´s Degree in Informatics and Computing Engineering
+- :sparkles::woman_technologist:  Currently I´m taking a Master´s Degree in Informatics and Computing Engineering (1/5)
 
 <!---
 malu1608/malu1608 is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
